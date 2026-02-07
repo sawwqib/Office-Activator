@@ -19,11 +19,11 @@ This repository contains a one-click activator for Microsoft Office and Windows.
    - Download the latest version of the activator.
 
 2. **Run the Activator:**
-   - Run the ` activator.cmd` file as an administrator.
+   - Run the ` activator.cmd` file.
 
 3. **Click Activate:**
    - Wait for the process to complete. You should see a success message once activation is done.
 
 
 ## Repo Views
-[!Repo Views](https://count.getloli.com/@winactv?name=winactv&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+[Repo Views!](https://count.getloli.com/@winactv?name=winactv&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
