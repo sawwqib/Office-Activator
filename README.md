@@ -26,4 +26,4 @@ This repository contains a one-click activator for Microsoft Office and Windows.
 
 
 ## Repo Views
-[Repo Views](https://count.getloli.com/@winactv?name=winactv&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![Repo Views](https://count.getloli.com/@winactv?name=winactv&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
